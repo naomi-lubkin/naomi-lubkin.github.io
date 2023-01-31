@@ -1,3 +1,54 @@
-description: "This webpage contains the contents of work produced by Naomi Lubkin in the course Biology 420: Ocean Conservation 
-and Sustainability at the University of British Columbia in Spring 2023."
-email: "naomil1732@gmail.com"
+# -----------------------------------------------------------------------------
+# Site settings
+# -----------------------------------------------------------------------------
+
+title: blank
+first_name: Naomi
+last_name: Lubkin
+email: naomil1732@gmail.com
+
+description: The contents of work produced by Naomi Lubkin in the course Biology 420: Ocean Conservation 
+and Sustainability at the University of British Columbia in Spring 2023.
+keywords: ocean-sustainability, ocean-conservation, student, personal-website
+lang: en
+url: https://naomi-lubkin.github.io
+last_updated: true
+
+# -----------------------------------------------------------------------------
+# Theme
+# -----------------------------------------------------------------------------
+
+#code highlighter theme
+highlight_theme_light: github   # https://github.com/jwarby/jekyll-pygments-themes
+highlight_theme_dark: native    # https://github.com/jwarby/jekyll-pygments-themes
+
+# repo color theme
+repo_theme_light: default       # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+repo_theme_dark: dark           # https://github.com/anuraghazra/github-readme-stats/blob/master/themes/README.md
+
+# -----------------------------------------------------------------------------
+# RSS Feed
+# -----------------------------------------------------------------------------
+# will use title and url fields
+# Take a look to https://github.com/jekyll/jekyll-feed for more customization
+
+rss_icon: true
+
+# -----------------------------------------------------------------------------
+# Layout
+# -----------------------------------------------------------------------------
+
+navbar_fixed: true
+footer_fixed: true
+
+# Dimensions
+max_width: 800px
+
+# -----------------------------------------------------------------------------
+# Social integration
+# -----------------------------------------------------------------------------
+github_username: naomi-lubkin
+twitter_username: naomilubkin
+contact_note: >
+The easiest way to get in touch with me is via email (naomil1732@gmail.com)
+
